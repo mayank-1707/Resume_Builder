@@ -1,0 +1,27 @@
+body
+{
+    background-image:url('back.jpg');	  
+	background-color:rgb(247, 247, 247);	  
+	background-size:cover;	
+	background-repeat: no-repeat;
+	background-position: center center ;
+	background-attachment: fixed;
+
+}
+#cv-form
+{
+	/* display: none;*/ 
+}
+#cv-template
+{
+	  display: none;}
+.myimg
+{
+	border-radius:100%;
+	border: 1px black;
+	width:150px;
+}
+.profilebackground
+{
+	background-color: rgb(165, 246, 250);
+}
